@@ -1,6 +1,6 @@
 {
-  "name": "todoperson",
-  "repo": "familyfound/todoperson",
+  "name": "todo-person",
+  "repo": "familyfound/todo-person",
   "description": "A todo person react component",
   "version": "0.0.1",
   "keywords": [],
@@ -12,6 +12,6 @@
     "index.js"
   ],
   "styles": [
-    "todoperson.css"
+    "todo-person.css"
   ]
 }
