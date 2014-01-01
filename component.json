@@ -1,0 +1,17 @@
+{
+  "name": "todoperson",
+  "repo": "familyfound/todoperson",
+  "description": "A todo person react component",
+  "version": "0.0.1",
+  "keywords": [],
+  "dependencies": {},
+  "development": {},
+  "license": "MIT",
+  "main": "index.js",
+  "scripts": [
+    "index.js"
+  ],
+  "styles": [
+    "todoperson.css"
+  ]
+}
